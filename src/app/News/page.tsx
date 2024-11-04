@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function newspage() {
   return (
-    <div>this is newspaage </div>
+    <div className='bg-zinc-900 text-red-800'>you are watching a news page</div>
   )
 }
